@@ -41,7 +41,7 @@ Configured a TCP port-forwarding rule:
 
 - Host IP: `127.0.0.1`
 - Host port: `2222`
-- Guest IP: `10.0.2.15`
+- Guest IP: `10.0.X.X`
 - Guest port: `22`
 
 This allowed the Windows host to connect to the Ubuntu VM through the forwarded port.
