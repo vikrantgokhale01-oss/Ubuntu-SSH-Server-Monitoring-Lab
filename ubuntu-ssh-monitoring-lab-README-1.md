@@ -68,6 +68,20 @@ The public key was then appended to the Ubuntu account's `~/.ssh/authorized_keys
 
 **Security note:** The private key remains on the Windows client. Only the public key is placed on the Ubuntu server. Never publish or share the private key.
 
+4.1 OpenSSH option in Ubuntu Server installer
+![image-1793956504563.jpg](https://github.com/user-attachments/assets/ce8dc35d-1115-4046-92a7-26fbaadffbfd)
+
+4.2 Ubuntu Server installation progress
+![image-1793974590915.jpg](https://github.com/user-attachments/assets/c1b67e91-1030-4a29-ba0c-7d49bff809e6)
+![IMG20261106194404.jpg](https://github.com/user-attachments/assets/7840abc5-2206-48ed-a586-f44d9f767ac8)
+
+4.3 OpenSSH service status
+![IMG_20261110_191927.jpg](https://github.com/user-attachments/assets/b7b2333b-65b2-4191-a969-7e7f84b6924b)
+
+4.4 Windows PowerShell SSH connection attempt
+![IMG_20261110_192906.jpg](https://github.com/user-attachments/assets/9bcc3956-3603-43b3-895f-571731b46631)
+
+
 ### 5. SSH session and connection monitoring (Ubuntu)
 
 Practised the following commands:
